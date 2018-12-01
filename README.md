@@ -9,3 +9,10 @@ Then he needs to type in various *features* and *class labels* that the dataset 
 After that he can select various parameters like the explainer, classifier, number of top features, etc. 
 
 Some sample screenshots of the process are shown in the figure below. 
+
+![Upload](https://github.com/ritesh99rakesh/explanable_ML/blob/master/images/upload.png)
+![Feature Selection](https://github.com/ritesh99rakesh/explanable_ML/blob/master/images/feature.png)
+![Class label Selection](https://github.com/ritesh99rakesh/explanable_ML/blob/master/images/label.png)
+![Parameter Selection](https://github.com/ritesh99rakesh/explanable_ML/blob/master/images/parameter.png)
+![Classifiers available](https://github.com/ritesh99rakesh/explanable_ML/blob/master/images/feature_particular.png)
+![Results](https://github.com/ritesh99rakesh/explanable_ML/blob/master/images/result.png)
