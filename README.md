@@ -4,9 +4,9 @@ using *LIME* as well as *aLIME*
 They needn’t have any expertise in programming or machine learning.
 We’ve made the entire cumbersome process end to end.
 The user just needs to upload the dataset in a rectangular format consisting of only numerical entries with no entries missing.
-Then he needs to type in various *features* and *class labels* that the dataset comprises of.
+Then she needs to type in various *features* and *class labels* that the dataset comprises of.
 
-After that he can select various parameters like the explainer, classifier, number of top features, etc.
+After that she can select various parameters like the explainer, classifier, number of top features, etc.
 
 ## How to use ##
 1. Clone the repository
