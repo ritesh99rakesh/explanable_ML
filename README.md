@@ -6,7 +6,13 @@ We’ve made the entire cumbersome process end to end.
 The user just needs to upload the dataset in a rectangular format consisting of only of numerical entries with no entries missing.
 Then he needs to type in various *features* and *class labels* that the dataset comprises of.
 
-After that he can select various parameters like the explainer, classifier, number of top features, etc. 
+After that he can select various parameters like the explainer, classifier, number of top features, etc.
+
+## How to use ##
+1. Clone the repository
+2. Run ```pip3 install -r requirements.txt``` in the terminal
+3. Run ```python3 manage.py runserver```
+4. Go to a Web Browser and type ```http://localhost:8000/lime/upload```
 
 Some sample screenshots of the process are shown in the figure below. 
 
